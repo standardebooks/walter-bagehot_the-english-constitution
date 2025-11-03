@@ -35,14 +35,17 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85056868</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The nature and operation of British governance is explained.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The challenge facing &lt;a href="https://standardebooks.org/ebooks/walter-bagehot"&gt;Walter Bagehot&lt;/a&gt; while writing the essays that became his study of &lt;i&gt;The English Constitution&lt;/i&gt; is that, infamously, there is no “English constitution,” at least, not one that has ever been written down. The government of the Great Britain and Ireland, in Bagehot’s day, is the result of centuries of development and so the product of custom, precedent, reform, and a great degree of chance.&lt;/p&gt;
+			&lt;p&gt;As a “constitutional monarchy,” the theory of government that Bagehot describes entails chiefly the role of the monarch, the main legislative assembly—the House of Commons—and its counterpart in the “upper house,” the House of Lords which, despite its apparently higher social register, is in reality a subordinate assembly. In these arrangements, the Reform Acts of &lt;time&gt;1832&lt;/time&gt; and &lt;time&gt;1867&lt;/time&gt; (the latter being debated while Bagehot was writing his essays) played a major role, and loom large in Bagehot’s discussion of the institutions of his day. The second edition of his work, published in 1872 (on which the Standard Ebooks edition is based), was able to take a considered view of effects of the second phase of reform.&lt;/p&gt;
+			&lt;p&gt;At the time of writing, Bagehot was well settled into his role as Editor of &lt;i&gt;The Economist&lt;/i&gt;, then a newspaper under the ownership of his father-in-law. Bagehot’s prose remains eminently readable, showing a light touch and sense of humour in explaining sometimes arcane arrangements of government, and often reflecting on its contrast with American practice. His sturdy prose bears comparison with that of the novelist Anthony Trollope, who was his exact contemporary. In some ways, &lt;i&gt;The English Constitution&lt;/i&gt; could be seen as the theoretical basis for Trollope’s &lt;a href="https://standardebooks.org/collections/palliser"&gt;political novels&lt;/a&gt;, and those novels (especially &lt;a href="https://standardebooks.org/ebooks/anthony-trollope/phineas-finn"&gt;&lt;i&gt;Phineas Finn&lt;/i&gt;&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/anthony-trollope/phineas-redux"&gt;&lt;i&gt;Phineas Redux&lt;/i&gt;&lt;/a&gt;, and &lt;a href="https://standardebooks.org/ebooks/anthony-trollope/the-prime-minister"&gt;&lt;i&gt;The Prime Minister&lt;/i&gt;&lt;/a&gt;) as commentaries on Bagehot’s theory.&lt;/p&gt;
+			&lt;p&gt;Bagehot and Trollope shared much in their outlook on English governance and society. Their congruence was observed by the historian Asa Briggs: “Trollope accepted the social presuppositions of Bagehot and explored them very fully in his novels. A more convincing impression of what everyday life was like in England in the middle Victorian years can be gathered from their pages than from any other source.” Yet this shared perspective had its weaknesses, with a complacent—even entitled—sense of social hierarchies showing a “lack of deep sympathy with the poor and a failure to perceive the continued existence of a social problem of poverty.”&lt;/p&gt;
+			&lt;p&gt;While now dated, Bagehot’s essays remain the standard work on British constitutional arrangements. His book has exerted a wide influence. Woodrow Wilson took inspiration from Bagehot in his own study of &lt;i&gt;Congressional Government&lt;/i&gt;, in which he called Bagehot “the most sagacious of political critics,” without peer in “that field of critical exposition in which he was supreme, the philosophical analysis … of the English Constitution.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://oll.libertyfund.org/titles/barrington-the-works-and-life-of-walter-bagehot-vol-5</dc:source>
 		<dc:source>https://archive.org/details/worksandlifewal06barrgoog</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_English_Constitution</meta>
@@ -53,10 +56,10 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79063562</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">George Hayter</dc:contributor>
+		<meta property="file-as" refines="#artist">Hayter, George</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/George_Hayter</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n86048723</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Online Library of Liberty</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Online Library of Liberty</meta>
